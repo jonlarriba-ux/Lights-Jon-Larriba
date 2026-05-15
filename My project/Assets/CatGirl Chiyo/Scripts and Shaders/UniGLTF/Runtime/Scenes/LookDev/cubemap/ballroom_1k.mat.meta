@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f6d4071e6e6b414c8ebdced2f05b4e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/Scenes/LookDev/cubemap/ballroom_1k.mat
+  uploadId: 548362

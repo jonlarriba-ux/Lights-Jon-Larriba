@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7b2dd4e5e1e7264089dc065c45db910
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Editor/VRM.Editor.asmdef
+  uploadId: 548362

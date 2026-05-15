@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49e5f06c3492116409bc0c0745b5edf7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniGLTF/IO/MeshIO/BlendShapeExporter.cs
+  uploadId: 548362

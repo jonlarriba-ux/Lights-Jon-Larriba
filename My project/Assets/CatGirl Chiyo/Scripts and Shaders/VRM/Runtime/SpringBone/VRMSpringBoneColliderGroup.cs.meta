@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 646b65a4a57afd34d8c4ed557efb46a5
+timeCreated: 1517984922
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/SpringBone/VRMSpringBoneColliderGroup.cs
+  uploadId: 548362

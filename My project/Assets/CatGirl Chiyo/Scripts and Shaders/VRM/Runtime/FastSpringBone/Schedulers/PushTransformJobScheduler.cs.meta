@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5a12fcea984d4387a5f3d0f5291df34e
+timeCreated: 1550717407
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/FastSpringBone/Schedulers/PushTransformJobScheduler.cs
+  uploadId: 548362

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 862aa29f5c3daf44fbe9db6344f02a52
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRMShaders/GLTF/IO/Resources/UniGLTF/StandardMapExporter.shader
+  uploadId: 548362

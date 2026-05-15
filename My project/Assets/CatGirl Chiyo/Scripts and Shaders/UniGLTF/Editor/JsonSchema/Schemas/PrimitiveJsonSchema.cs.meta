@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e64153bf38e165643bb501c5967734d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/JsonSchema/Schemas/PrimitiveJsonSchema.cs
+  uploadId: 548362

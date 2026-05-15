@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9238dc0c44df9484bbdca85d818c9b73
+timeCreated: 1516616871
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniGLTF/Format/glbTypes.cs
+  uploadId: 548362

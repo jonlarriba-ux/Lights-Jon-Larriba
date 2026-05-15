@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0e684fa1214e6f419f662ce3db4f991
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/Scenes/LookDev/RenderingServicePostProcessingProfile.asset
+  uploadId: 548362

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b08b704c97f3bc54c8469f9f1822432d
+timeCreated: 1543256597
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Tests/UniJSON/Json/JsonSerializerTests.cs
+  uploadId: 548362

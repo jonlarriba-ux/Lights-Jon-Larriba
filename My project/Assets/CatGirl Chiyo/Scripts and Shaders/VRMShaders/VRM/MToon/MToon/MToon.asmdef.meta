@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9bc101fb0471f94a8f99fd242fdd934
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRMShaders/VRM/MToon/MToon/MToon.asmdef
+  uploadId: 548362

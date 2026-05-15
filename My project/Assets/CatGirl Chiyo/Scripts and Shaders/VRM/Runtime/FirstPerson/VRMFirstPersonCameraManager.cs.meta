@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6b34fb2c039c3ce4881f04e476a2128f
+timeCreated: 1519220439
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/FirstPerson/VRMFirstPersonCameraManager.cs
+  uploadId: 548362

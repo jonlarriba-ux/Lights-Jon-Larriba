@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 04a3e59a0190f1647892e3709c075845
+timeCreated: 1517991576
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/LookAt/VRMLookAt.cs
+  uploadId: 548362

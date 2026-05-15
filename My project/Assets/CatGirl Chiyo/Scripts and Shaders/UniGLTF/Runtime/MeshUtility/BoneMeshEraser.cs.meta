@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 270bf7461f6f8d546ae540cb7d5fc6f3
+timeCreated: 1519018975
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/MeshUtility/BoneMeshEraser.cs
+  uploadId: 548362

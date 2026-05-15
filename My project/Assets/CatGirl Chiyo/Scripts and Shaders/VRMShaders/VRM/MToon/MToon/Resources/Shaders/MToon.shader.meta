@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a97144e4ad27a04aafd70f7b915cedb
+timeCreated: 1514111466
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRMShaders/VRM/MToon/MToon/Resources/Shaders/MToon.shader
+  uploadId: 548362

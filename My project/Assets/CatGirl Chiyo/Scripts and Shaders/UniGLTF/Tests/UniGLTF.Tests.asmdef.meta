@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9fe54bb3090be448aa10ac92648a614
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Tests/UniGLTF.Tests.asmdef
+  uploadId: 548362

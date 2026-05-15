@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2fb728ca27f90c947890313df5f94d4d
+timeCreated: 1531634657
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniJSON/Extensions/TypeExtensions.cs
+  uploadId: 548362

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ec789661012740afbe8b5422aadc5fa0
+timeCreated: 1667399599
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniGLTF/IO/MaterialIO/BuiltInRP/Export/Materials/BuiltInStandardMaterialExporter.cs
+  uploadId: 548362

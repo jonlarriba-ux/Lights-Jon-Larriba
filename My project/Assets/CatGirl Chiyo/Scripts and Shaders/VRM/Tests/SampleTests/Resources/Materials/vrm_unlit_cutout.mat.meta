@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c4f60874fac8a3e4dadb10f4289ecec1
+timeCreated: 1534511968
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Tests/SampleTests/Resources/Materials/vrm_unlit_cutout.mat
+  uploadId: 548362

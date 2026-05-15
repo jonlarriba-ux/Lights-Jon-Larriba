@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 08a0ae763ee70ed45809fad80ffe8e78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniGLTF/IO/MaterialIO/URP/Import/Materials/UrpGltfPbrMaterialImporter.cs
+  uploadId: 548362

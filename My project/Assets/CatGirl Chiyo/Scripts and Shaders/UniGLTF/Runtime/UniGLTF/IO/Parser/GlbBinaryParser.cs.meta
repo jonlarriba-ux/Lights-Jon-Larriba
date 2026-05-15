@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ba0fe1be89e041138d2937dc07e9fdca
+timeCreated: 1629885479
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniGLTF/IO/Parser/GlbBinaryParser.cs
+  uploadId: 548362

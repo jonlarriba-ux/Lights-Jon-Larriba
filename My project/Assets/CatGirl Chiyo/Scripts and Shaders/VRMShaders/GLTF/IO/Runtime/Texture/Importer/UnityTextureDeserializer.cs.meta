@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 170beedd62e24506acc42b7c04464e84
+timeCreated: 1622107784
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRMShaders/GLTF/IO/Runtime/Texture/Importer/UnityTextureDeserializer.cs
+  uploadId: 548362

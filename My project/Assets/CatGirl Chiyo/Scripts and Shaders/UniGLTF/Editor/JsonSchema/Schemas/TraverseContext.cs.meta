@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f169b3199e32ab24c82c6968e6113f14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/JsonSchema/Schemas/TraverseContext.cs
+  uploadId: 548362

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6b534e4a88689d499df389f744ce346
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/Scenes/LookDev/cubemap/spruit_sunrise_1k.mat
+  uploadId: 548362

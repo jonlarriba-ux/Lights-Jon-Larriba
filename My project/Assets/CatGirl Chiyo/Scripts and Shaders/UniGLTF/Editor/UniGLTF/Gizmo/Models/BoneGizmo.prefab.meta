@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0902f1221c08a84687a43326e75bf7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/UniGLTF/Gizmo/Models/BoneGizmo.prefab
+  uploadId: 548362

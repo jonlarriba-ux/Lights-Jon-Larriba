@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 273b1f57f417db8408c13673d45890ff
+timeCreated: 1521727258
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/BlendShape/BlendShapeKey.cs
+  uploadId: 548362

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 73f7fb3db66d55b4684333583a685757
+timeCreated: 1517549334
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/Format/glTF_VRM_BlendShape.cs
+  uploadId: 548362

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d3712bde0d2a4b348ab5bb661fe1a51a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Tests/UniGLTF/NativeArrayTests.cs
+  uploadId: 548362

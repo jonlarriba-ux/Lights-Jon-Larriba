@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de3c6c4e1e6cb6f419be68ef4932dbdc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/UniGLTF/Gizmo/Models/Bone.mat
+  uploadId: 548362

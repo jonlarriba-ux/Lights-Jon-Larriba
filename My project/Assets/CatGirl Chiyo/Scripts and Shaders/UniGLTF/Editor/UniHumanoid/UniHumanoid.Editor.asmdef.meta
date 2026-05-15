@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bd512e806d329b4c9f7fe1abe65e9db
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/UniHumanoid/UniHumanoid.Editor.asmdef
+  uploadId: 548362

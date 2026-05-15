@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5fb858fc98e29c54d87df97ead98608e
+timeCreated: 1540812551
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Runtime/UniJSON/IFormatter.cs
+  uploadId: 548362

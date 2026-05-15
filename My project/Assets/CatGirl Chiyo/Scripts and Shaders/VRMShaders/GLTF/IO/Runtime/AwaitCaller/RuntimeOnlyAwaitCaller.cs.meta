@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e4e64b1835ca4cd2b682a6bda572b8fb
+timeCreated: 1634203216
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRMShaders/GLTF/IO/Runtime/AwaitCaller/RuntimeOnlyAwaitCaller.cs
+  uploadId: 548362

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81c157c7c98f02742b7af724527af586
+timeCreated: 1532003904
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Tests/SampleTests/VRMImportExportTests.cs
+  uploadId: 548362

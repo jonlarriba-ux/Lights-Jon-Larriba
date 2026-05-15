@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 63b589176a34b344b9ccbee2b7e7114a
+timeCreated: 1522391129
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/Meta/VRMMetaObject.cs
+  uploadId: 548362

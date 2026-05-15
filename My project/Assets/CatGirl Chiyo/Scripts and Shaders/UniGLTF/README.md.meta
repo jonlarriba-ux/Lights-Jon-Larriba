@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c97bd2ee06a25534f9947292d562aecf
+timeCreated: 1517138583
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/README.md
+  uploadId: 548362

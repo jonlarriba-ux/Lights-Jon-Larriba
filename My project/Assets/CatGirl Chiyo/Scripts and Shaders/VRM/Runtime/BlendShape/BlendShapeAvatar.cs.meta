@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 329dca3bf78fcdd42b2df941673db76f
+timeCreated: 1519195979
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/BlendShape/BlendShapeAvatar.cs
+  uploadId: 548362

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac229b552c3025545b074203f857547c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/FastSpringBone/FastSpringBone.asmdef
+  uploadId: 548362

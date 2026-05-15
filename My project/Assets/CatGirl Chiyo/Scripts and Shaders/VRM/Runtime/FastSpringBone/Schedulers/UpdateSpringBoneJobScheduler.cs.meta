@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a6b730c674ce4484862ddee8459c8598
+timeCreated: 1549516763
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/VRM/Runtime/FastSpringBone/Schedulers/UpdateSpringBoneJobScheduler.cs
+  uploadId: 548362

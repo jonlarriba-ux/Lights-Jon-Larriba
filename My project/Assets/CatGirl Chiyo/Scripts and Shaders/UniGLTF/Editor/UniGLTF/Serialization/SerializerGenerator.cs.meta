@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a9c53a1e9bb8c9244927b7a7041e8e3a
+timeCreated: 1564983410
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240994
+  packageName: Cat Girl Chiyo
+  packageVersion: 1.0
+  assetPath: Assets/CatGirl Chiyo/Scripts and Shaders/UniGLTF/Editor/UniGLTF/Serialization/SerializerGenerator.cs
+  uploadId: 548362
