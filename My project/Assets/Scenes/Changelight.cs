@@ -6,6 +6,11 @@ public class Changelight : MonoBehaviour
     public GameObject g1;
     public GameObject g2;
     public GameObject g3;
+
+    public Material m1;
+    public Material m2;
+    public Material m3;
+
     private int i = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -27,18 +32,22 @@ public class Changelight : MonoBehaviour
                 gameObject[0].SetActive(false);
                 gameObject[1].SetActive(true);
                 i = 1;
+                RenderSettings.skybox = m2;
             }
             else if (i == 1)
             {
                 gameObject[1].SetActive(false);
                 gameObject[2].SetActive(true);
                 i = 2;
+                RenderSettings.skybox = m3;
             }
             else if (i == 2)
             {
                 gameObject[2].SetActive(false);
                 gameObject[0].SetActive(true);
                 i = 0;
+                RenderSettings.skybox = m1;
+
             }
         }
     }
